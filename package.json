@@ -1,6 +1,6 @@
 {
   "name": "tl-opcr-modal-component-library",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "main": "dist/index.js",
   "private": false,
   "module": "dist/index.js",
